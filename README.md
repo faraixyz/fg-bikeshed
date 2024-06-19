@@ -1,6 +1,6 @@
 # FG Bikeshed
 
-Where I overthink how my Hugo websites work.3
+Where I overthink how my Hugo websites work.
 
 ## Defaults
 
